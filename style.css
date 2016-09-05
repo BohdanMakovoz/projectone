@@ -1,0 +1,50 @@
+body {
+    width: 800px;
+}
+
+h1, h2, h3, h4 {
+    color: blue;
+    text-align: auto;
+}
+
+p {
+    color: black;
+}
+
+.capt {
+    text-align: center;
+    color: blue;
+    font-size: 26px;
+}
+
+table {
+    border: 1px solid grey;
+    border-collapse: collapse;
+    width: 1000px;
+}
+
+th {
+    border: 1px solid grey;
+    padding: 5px;
+    text-align: center;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    border: 1px solid grey;
+    padding-left: 15px;
+    color: darkslategray;
+}
+
+.left {
+    height: 30px;
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+    padding-right: 5px;
+}
